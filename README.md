@@ -1,2 +1,3 @@
 # Fingerprint_DDPM
-Code for Fingerprinting Denoising Diffusion Probabilistic Models
+Code for Fingerprinting Denoising Diffusion Probabilistic Models.
+Coming soon!
