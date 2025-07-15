@@ -6,6 +6,11 @@ This repository contains code for the CVPR 2025 paper ["Fingerprinting Denoising
 
 The code development refers to DDPM inversion. Thanks to them: https://github.com/inbarhub/DDPM_inversion.
 
+## Requirement
+
+This code was tested in Python 3.8. To install dependencies:
+```pip install -r requirements.txt```
+
 The download links for different pretrained models as well as the uniqueness and robustness analysis are provided in eval.sh.
 
 ## Pretrained Models & Evaluation
